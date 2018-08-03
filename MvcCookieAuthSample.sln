@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27703.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcCookieAuthSample", "MvcCookieAuthSample\MvcCookieAuthSample\MvcCookieAuthSample.csproj", "{EAC6D6F5-110B-4B85-9ECE-69B11EF1CC67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAuthSamples", "MvcCookieAuthSample\JWTAuthSample\JWTAuthSamples\JWTAuthSamples.csproj", "{10C024C6-4062-4294-8EFD-3B9CE415F8DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTAuthSamples", "MvcCookieAuthSample\JWTAuthSample\JWTAuthSamples\JWTAuthSamples.csproj", "{10C024C6-4062-4294-8EFD-3B9CE415F8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtWebMvcApp", "MvcCookieAuthSample\JwtWebMvcApp\JwtWebMvcApp\JwtWebMvcApp.csproj", "{58560D53-7E02-4C8C-9BF4-02294EDF735E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{10C024C6-4062-4294-8EFD-3B9CE415F8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10C024C6-4062-4294-8EFD-3B9CE415F8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10C024C6-4062-4294-8EFD-3B9CE415F8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58560D53-7E02-4C8C-9BF4-02294EDF735E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58560D53-7E02-4C8C-9BF4-02294EDF735E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58560D53-7E02-4C8C-9BF4-02294EDF735E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58560D53-7E02-4C8C-9BF4-02294EDF735E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
