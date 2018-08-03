@@ -21,5 +21,5 @@ namespace MvcCookieAuthSample
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
-    }
+    } 
 }
